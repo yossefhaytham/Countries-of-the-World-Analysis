@@ -36,7 +36,7 @@ I designed a comprehensive analytical workflow that starts with automated data c
 * **Excel Formulas & Calculations:** Created custom calculations to determine key performance indicators (KPIs) such as Population Density (Population/Area) and percentage breakdowns for global population shares.
 * **Data Visualization:** Designed a professional dark-themed dashboard using bar charts, pie charts, and column graphs to communicate complex demographic data clearly and concisely.
 
-## Dashboard Interface
+## Dashboard
 
 ![Dashboard Analysis](https://github.com/yossefhaytham/Countries-of-the-World-Analysis/blob/main/resource/dashboard.jpg)
 
